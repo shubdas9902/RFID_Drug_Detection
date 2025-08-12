@@ -1,4 +1,5 @@
 Counterfeit Drug Detection Using RFID & Blockchain
+
 📌 Overview
 This project aims to combat the problem of counterfeit medicines by integrating RFID technology with Blockchain for secure, transparent, and tamper-proof drug verification. Each legitimate drug package is tagged with an RFID tag containing a unique ID, which is stored on the blockchain at the time of manufacturing. Pharmacies and customers can verify the authenticity of the drug by scanning the RFID tag using an ESP32 + RC522 module.
 
